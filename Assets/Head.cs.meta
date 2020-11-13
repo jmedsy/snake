@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6181f4951caf3754aa21b0d1c219dbc9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bodyTilePrefab: {instanceID: 0}
+  - snakeCorner: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
